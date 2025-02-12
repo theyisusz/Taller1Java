@@ -18,7 +18,7 @@ public class Mainventa {
 
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
-        System.out.println("=== Sistema de Procesamiento de Pagos ===");
+        System.out.println("== Sistema de Procesamiento de Pagos ==");
         System.out.println("Seleccione el tipo de pago:");
         System.out.println("1. Pago con Tarjeta de Crédito");
         System.out.println("2. Pago por Transferencia Bancaria");
